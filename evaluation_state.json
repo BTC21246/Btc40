@@ -1,19 +1,6 @@
 {
   "pending": [
     {
-      "signal_time": "2026-10-13 03:00 UTC",
-      "signal_ms": 1791860400000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83299.9,
-      "tp": 84349.57,
-      "sl": 82600.12
-    },
-    {
       "signal_time": "2026-10-13 00:00 UTC",
       "signal_ms": 1791849600000,
       "timeframe": "4 ساعت",
@@ -169,6 +156,32 @@
       "entry": 83485.1,
       "tp": 84461.19,
       "sl": 82834.37
+    },
+    {
+      "signal_time": "2026-10-13 15:30 UTC",
+      "signal_ms": 1791905400000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bearish Engulfing"
+      ],
+      "direction": "SHORT",
+      "entry": 83393.0,
+      "tp": 82757.66,
+      "sl": 83816.56
+    },
+    {
+      "signal_time": "2026-10-13 12:00 UTC",
+      "signal_ms": 1791892800000,
+      "timeframe": "4 ساعت",
+      "tf_key": "14400",
+      "patterns": [
+        "Tweezer Bottom"
+      ],
+      "direction": "LONG",
+      "entry": 83393.0,
+      "tp": 85032.74,
+      "sl": 82299.84
     }
   ],
   "last_reported": {
