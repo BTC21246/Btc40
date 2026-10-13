@@ -27,19 +27,6 @@
       "sl": 82349.11
     },
     {
-      "signal_time": "2026-10-13 04:00 UTC",
-      "signal_ms": 1791864000000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83341.8,
-      "tp": 84184.17,
-      "sl": 82780.22
-    },
-    {
       "signal_time": "2026-10-13 04:30 UTC",
       "signal_ms": 1791865800000,
       "timeframe": "30 دقیقه",
