@@ -1,7 +1,12 @@
 telegram.txt
 sent.json
-pycache/
-.bak
-.backup
-bot.py.backup
+__pycache__/
+*.bak
+*.backup
+*.bak.*
+*.backup_*
+bot.py.before_*
+bot_backup*
+bot_before_*
+backtest_backup.py
 backup_before_grouping/
