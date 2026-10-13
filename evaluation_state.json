@@ -66,20 +66,6 @@
       "sl": 83061.66
     },
     {
-      "signal_time": "2026-10-13 08:30 UTC",
-      "signal_ms": 1791880200000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bearish Engulfing",
-        "Bearish Marubozu"
-      ],
-      "direction": "SHORT",
-      "entry": 83557.3,
-      "tp": 82995.13,
-      "sl": 83932.08
-    },
-    {
       "signal_time": "2026-10-13 08:00 UTC",
       "signal_ms": 1791878400000,
       "timeframe": "1 ساعت",
@@ -170,6 +156,19 @@
       "entry": 83609.3,
       "tp": 84252.12,
       "sl": 83180.75
+    },
+    {
+      "signal_time": "2026-10-13 14:00 UTC",
+      "signal_ms": 1791900000000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Bullish Engulfing"
+      ],
+      "direction": "LONG",
+      "entry": 83485.1,
+      "tp": 84461.19,
+      "sl": 82834.37
     }
   ],
   "last_reported": {
