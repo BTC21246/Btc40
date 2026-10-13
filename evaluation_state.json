@@ -221,6 +221,19 @@
       "entry": 83252.9,
       "tp": 81562.24,
       "sl": 84380.01
+    },
+    {
+      "signal_time": "2026-10-13 20:00 UTC",
+      "signal_ms": 1791921600000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bearish Engulfing"
+      ],
+      "direction": "SHORT",
+      "entry": 83179.0,
+      "tp": 82672.62,
+      "sl": 83516.59
     }
   ],
   "last_reported": {
