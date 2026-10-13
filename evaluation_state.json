@@ -116,6 +116,19 @@
       "entry": 83678.3,
       "tp": 84423.89,
       "sl": 83181.24
+    },
+    {
+      "signal_time": "2026-10-13 06:00 UTC",
+      "signal_ms": 1791871200000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83732.1,
+      "tp": 84737.76,
+      "sl": 83061.66
     }
   ],
   "last_reported": {
