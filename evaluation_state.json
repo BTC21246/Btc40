@@ -155,6 +155,19 @@
       "entry": 83831.9,
       "tp": 84854.89,
       "sl": 83149.91
+    },
+    {
+      "signal_time": "2026-10-13 08:00 UTC",
+      "signal_ms": 1791878400000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Shooting Star"
+      ],
+      "direction": "SHORT",
+      "entry": 83890.4,
+      "tp": 83318.01,
+      "sl": 84271.99
     }
   ],
   "last_reported": {
