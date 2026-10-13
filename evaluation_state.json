@@ -181,6 +181,32 @@
       "entry": 83344.5,
       "tp": 84190.96,
       "sl": 82780.19
+    },
+    {
+      "signal_time": "2026-10-13 17:30 UTC",
+      "signal_ms": 1791912600000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 83063.0,
+      "tp": 82439.43,
+      "sl": 83478.71
+    },
+    {
+      "signal_time": "2026-10-13 17:00 UTC",
+      "signal_ms": 1791910800000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 83063.0,
+      "tp": 82269.23,
+      "sl": 83592.18
     }
   ],
   "last_reported": {
