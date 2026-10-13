@@ -155,6 +155,32 @@
       "entry": 83063.0,
       "tp": 82269.23,
       "sl": 83592.18
+    },
+    {
+      "signal_time": "2026-10-13 18:30 UTC",
+      "signal_ms": 1791916200000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Engulfing"
+      ],
+      "direction": "LONG",
+      "entry": 83124.4,
+      "tp": 83694.72,
+      "sl": 82744.19
+    },
+    {
+      "signal_time": "2026-10-13 18:00 UTC",
+      "signal_ms": 1791914400000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Tweezer Bottom"
+      ],
+      "direction": "LONG",
+      "entry": 83124.4,
+      "tp": 83925.85,
+      "sl": 82590.1
     }
   ],
   "last_reported": {
