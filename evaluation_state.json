@@ -249,6 +249,19 @@
       "entry": 83487.3,
       "tp": 84223.41,
       "sl": 82996.56
+    },
+    {
+      "signal_time": "2026-10-13 22:00 UTC",
+      "signal_ms": 1791928800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Tweezer Top"
+      ],
+      "direction": "SHORT",
+      "entry": 83404.0,
+      "tp": 83023.08,
+      "sl": 83657.95
     }
   ],
   "last_reported": {
