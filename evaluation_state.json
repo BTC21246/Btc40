@@ -14,19 +14,6 @@
       "sl": 82349.11
     },
     {
-      "signal_time": "2026-10-13 10:00 UTC",
-      "signal_ms": 1791885600000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bearish Engulfing"
-      ],
-      "direction": "SHORT",
-      "entry": 83310.0,
-      "tp": 82251.59,
-      "sl": 84015.61
-    },
-    {
       "signal_time": "2026-10-13 11:00 UTC",
       "signal_ms": 1791889200000,
       "timeframe": "1 ساعت",
@@ -77,19 +64,6 @@
       "entry": 83393.0,
       "tp": 85032.74,
       "sl": 82299.84
-    },
-    {
-      "signal_time": "2026-10-13 16:30 UTC",
-      "signal_ms": 1791909000000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bearish Engulfing"
-      ],
-      "direction": "SHORT",
-      "entry": 83344.5,
-      "tp": 82730.85,
-      "sl": 83753.6
     },
     {
       "signal_time": "2026-10-13 16:00 UTC",
@@ -262,6 +236,33 @@
       "entry": 83404.0,
       "tp": 83023.08,
       "sl": 83657.95
+    },
+    {
+      "signal_time": "2026-10-13 22:30 UTC",
+      "signal_ms": 1791930600000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Rising Three Methods"
+      ],
+      "direction": "LONG",
+      "entry": 83483.7,
+      "tp": 83828.25,
+      "sl": 83254.0
+    },
+    {
+      "signal_time": "2026-10-13 22:00 UTC",
+      "signal_ms": 1791928800000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Bearish Meeting Lines",
+        "Tweezer Top"
+      ],
+      "direction": "SHORT",
+      "entry": 83483.7,
+      "tp": 82803.22,
+      "sl": 83937.35
     }
   ],
   "last_reported": {
