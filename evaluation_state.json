@@ -1,46 +1,6 @@
 {
   "pending": [
     {
-      "signal_time": "2026-10-12 20:00 UTC",
-      "signal_ms": 1791835200000,
-      "timeframe": "4 ساعت",
-      "tf_key": "14400",
-      "patterns": [
-        "Bearish Engulfing"
-      ],
-      "direction": "SHORT",
-      "entry": 81813.5,
-      "tp": 80693.41,
-      "sl": 82560.23
-    },
-    {
-      "signal_time": "2026-10-13 01:00 UTC",
-      "signal_ms": 1791853200000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bullish Engulfing",
-        "Bullish Marubozu"
-      ],
-      "direction": "LONG",
-      "entry": 82411.1,
-      "tp": 83436.17,
-      "sl": 81727.72
-    },
-    {
-      "signal_time": "2026-10-13 02:00 UTC",
-      "signal_ms": 1791856800000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 82718.2,
-      "tp": 83474.93,
-      "sl": 82213.71
-    },
-    {
       "signal_time": "2026-10-13 02:30 UTC",
       "signal_ms": 1791858600000,
       "timeframe": "30 دقیقه",
@@ -52,6 +12,58 @@
       "entry": 82890.7,
       "tp": 83676.08,
       "sl": 82367.11
+    },
+    {
+      "signal_time": "2026-10-13 03:30 UTC",
+      "signal_ms": 1791862200000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83299.9,
+      "tp": 84148.54,
+      "sl": 82734.14
+    },
+    {
+      "signal_time": "2026-10-13 03:00 UTC",
+      "signal_ms": 1791860400000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83299.9,
+      "tp": 84349.57,
+      "sl": 82600.12
+    },
+    {
+      "signal_time": "2026-10-13 00:00 UTC",
+      "signal_ms": 1791849600000,
+      "timeframe": "4 ساعت",
+      "tf_key": "14400",
+      "patterns": [
+        "Bullish Engulfing"
+      ],
+      "direction": "LONG",
+      "entry": 83299.9,
+      "tp": 84726.09,
+      "sl": 82349.11
+    },
+    {
+      "signal_time": "2026-10-13 04:00 UTC",
+      "signal_ms": 1791864000000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83341.8,
+      "tp": 84184.17,
+      "sl": 82780.22
     }
   ],
   "last_reported": {
