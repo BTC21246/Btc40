@@ -181,6 +181,46 @@
       "entry": 83124.4,
       "tp": 83925.85,
       "sl": 82590.1
+    },
+    {
+      "signal_time": "2026-10-13 19:30 UTC",
+      "signal_ms": 1791919800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Hammer",
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83252.9,
+      "tp": 83781.17,
+      "sl": 82900.72
+    },
+    {
+      "signal_time": "2026-10-13 19:00 UTC",
+      "signal_ms": 1791918000000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Morning Star"
+      ],
+      "direction": "LONG",
+      "entry": 83252.9,
+      "tp": 84007.23,
+      "sl": 82750.01
+    },
+    {
+      "signal_time": "2026-10-13 16:00 UTC",
+      "signal_ms": 1791907200000,
+      "timeframe": "4 ساعت",
+      "tf_key": "14400",
+      "patterns": [
+        "Bearish Engulfing"
+      ],
+      "direction": "SHORT",
+      "entry": 83252.9,
+      "tp": 81562.24,
+      "sl": 84380.01
     }
   ],
   "last_reported": {
