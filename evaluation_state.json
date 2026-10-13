@@ -1,0 +1,49 @@
+{
+  "pending": [
+    {
+      "signal_time": "2026-10-12 20:00 UTC",
+      "signal_ms": 1791835200000,
+      "timeframe": "4 ساعت",
+      "tf_key": "14400",
+      "patterns": [
+        "Bearish Engulfing"
+      ],
+      "direction": "SHORT",
+      "entry": 81813.5,
+      "tp": 80693.41,
+      "sl": 82560.23
+    },
+    {
+      "signal_time": "2026-10-13 01:00 UTC",
+      "signal_ms": 1791853200000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Engulfing"
+      ],
+      "direction": "LONG",
+      "entry": 82041.0,
+      "tp": 82762.76,
+      "sl": 81559.83
+    },
+    {
+      "signal_time": "2026-10-13 01:00 UTC",
+      "signal_ms": 1791853200000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Bullish Engulfing",
+        "Bullish Marubozu"
+      ],
+      "direction": "LONG",
+      "entry": 82411.1,
+      "tp": 83436.17,
+      "sl": 81727.72
+    }
+  ],
+  "last_reported": {
+    "5 دقیقه": 1791755700,
+    "15 دقیقه": 1791755100,
+    "1 ساعت": 1791752400
+  }
+}

@@ -1,0 +1,7 @@
+telegram.txt
+sent.json
+pycache/
+.bak
+.backup
+bot.py.backup
+backup_before_grouping/
