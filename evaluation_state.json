@@ -64,6 +64,32 @@
       "entry": 83341.8,
       "tp": 84184.17,
       "sl": 82780.22
+    },
+    {
+      "signal_time": "2026-10-13 04:30 UTC",
+      "signal_ms": 1791865800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83418.8,
+      "tp": 84220.17,
+      "sl": 82884.55
+    },
+    {
+      "signal_time": "2026-10-13 04:00 UTC",
+      "signal_ms": 1791864000000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83418.8,
+      "tp": 84419.34,
+      "sl": 82751.77
     }
   ],
   "last_reported": {
