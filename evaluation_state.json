@@ -1,19 +1,6 @@
 {
   "pending": [
     {
-      "signal_time": "2026-10-13 03:30 UTC",
-      "signal_ms": 1791862200000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83299.9,
-      "tp": 84148.54,
-      "sl": 82734.14
-    },
-    {
       "signal_time": "2026-10-13 03:00 UTC",
       "signal_ms": 1791860400000,
       "timeframe": "1 ساعت",
@@ -182,6 +169,19 @@
       "entry": 83557.3,
       "tp": 82490.61,
       "sl": 84268.43
+    },
+    {
+      "signal_time": "2026-10-13 09:30 UTC",
+      "signal_ms": 1791883800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Engulfing"
+      ],
+      "direction": "LONG",
+      "entry": 83591.4,
+      "tp": 84109.97,
+      "sl": 83245.69
     }
   ],
   "last_reported": {
