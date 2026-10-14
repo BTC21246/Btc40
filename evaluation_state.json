@@ -183,6 +183,20 @@
       "entry": 81624.9,
       "tp": 80727.5,
       "sl": 82223.17
+    },
+    {
+      "signal_time": "2026-10-14 23:00 UTC",
+      "signal_ms": 1792018800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bearish Engulfing",
+        "Tweezer Top"
+      ],
+      "direction": "SHORT",
+      "entry": 81503.5,
+      "tp": 81037.24,
+      "sl": 81814.34
     }
   ],
   "last_reported": {
