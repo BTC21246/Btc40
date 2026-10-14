@@ -131,6 +131,19 @@
       "entry": 83430.4,
       "tp": 84096.62,
       "sl": 82986.25
+    },
+    {
+      "signal_time": "2026-10-14 11:00 UTC",
+      "signal_ms": 1791975600000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Bearish Meeting Lines"
+      ],
+      "direction": "SHORT",
+      "entry": 83424.1,
+      "tp": 82763.54,
+      "sl": 83864.47
     }
   ],
   "last_reported": {
