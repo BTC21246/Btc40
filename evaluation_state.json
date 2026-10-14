@@ -54,20 +54,6 @@
       "sl": 82568.28
     },
     {
-      "signal_time": "2026-10-14 12:30 UTC",
-      "signal_ms": 1791981000000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bearish Engulfing",
-        "Tweezer Top"
-      ],
-      "direction": "SHORT",
-      "entry": 82699.0,
-      "tp": 82046.51,
-      "sl": 83133.99
-    },
-    {
       "signal_time": "2026-10-14 13:30 UTC",
       "signal_ms": 1791984600000,
       "timeframe": "30 دقیقه",
@@ -92,6 +78,19 @@
       "entry": 82282.3,
       "tp": 81421.73,
       "sl": 82856.01
+    },
+    {
+      "signal_time": "2026-10-14 14:00 UTC",
+      "signal_ms": 1791986400000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 82017.0,
+      "tp": 81207.84,
+      "sl": 82556.44
     }
   ],
   "last_reported": {
