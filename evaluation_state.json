@@ -14,19 +14,6 @@
       "sl": 82349.11
     },
     {
-      "signal_time": "2026-10-13 12:00 UTC",
-      "signal_ms": 1791892800000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bearish Meeting Lines"
-      ],
-      "direction": "SHORT",
-      "entry": 83325.0,
-      "tp": 82314.0,
-      "sl": 83999.0
-    },
-    {
       "signal_time": "2026-10-13 14:00 UTC",
       "signal_ms": 1791900000000,
       "timeframe": "1 ساعت",
@@ -64,32 +51,6 @@
       "entry": 83344.5,
       "tp": 84190.96,
       "sl": 82780.19
-    },
-    {
-      "signal_time": "2026-10-13 17:00 UTC",
-      "signal_ms": 1791910800000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Three Black Crows"
-      ],
-      "direction": "SHORT",
-      "entry": 83063.0,
-      "tp": 82269.23,
-      "sl": 83592.18
-    },
-    {
-      "signal_time": "2026-10-13 18:30 UTC",
-      "signal_ms": 1791916200000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bullish Engulfing"
-      ],
-      "direction": "LONG",
-      "entry": 83124.4,
-      "tp": 83694.72,
-      "sl": 82744.19
     },
     {
       "signal_time": "2026-10-13 18:00 UTC",
@@ -143,19 +104,6 @@
       "entry": 83252.9,
       "tp": 81562.24,
       "sl": 84380.01
-    },
-    {
-      "signal_time": "2026-10-13 20:00 UTC",
-      "signal_ms": 1791921600000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bearish Engulfing"
-      ],
-      "direction": "SHORT",
-      "entry": 83179.0,
-      "tp": 82672.62,
-      "sl": 83516.59
     },
     {
       "signal_time": "2026-10-13 20:30 UTC",
@@ -239,6 +187,19 @@
       "entry": 83417.5,
       "tp": 83789.98,
       "sl": 83169.18
+    },
+    {
+      "signal_time": "2026-10-14 00:30 UTC",
+      "signal_ms": 1791937800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Shooting Star"
+      ],
+      "direction": "SHORT",
+      "entry": 83373.5,
+      "tp": 83002.71,
+      "sl": 83620.69
     }
   ],
   "last_reported": {
