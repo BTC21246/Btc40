@@ -105,6 +105,19 @@
       "entry": 83219.9,
       "tp": 82734.48,
       "sl": 83543.51
+    },
+    {
+      "signal_time": "2026-10-14 10:00 UTC",
+      "signal_ms": 1791972000000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Engulfing"
+      ],
+      "direction": "LONG",
+      "entry": 83305.1,
+      "tp": 83822.66,
+      "sl": 82960.06
     }
   ],
   "last_reported": {
