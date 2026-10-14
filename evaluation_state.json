@@ -40,19 +40,6 @@
       "sl": 84380.01
     },
     {
-      "signal_time": "2026-10-13 21:00 UTC",
-      "signal_ms": 1791925200000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83487.3,
-      "tp": 84223.41,
-      "sl": 82996.56
-    },
-    {
       "signal_time": "2026-10-14 02:00 UTC",
       "signal_ms": 1791943200000,
       "timeframe": "1 ساعت",
@@ -105,6 +92,19 @@
       "entry": 83394.3,
       "tp": 82880.93,
       "sl": 83736.55
+    },
+    {
+      "signal_time": "2026-10-14 09:30 UTC",
+      "signal_ms": 1791970200000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 83219.9,
+      "tp": 82734.48,
+      "sl": 83543.51
     }
   ],
   "last_reported": {
