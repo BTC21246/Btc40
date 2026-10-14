@@ -1,59 +1,6 @@
 {
   "pending": [
     {
-      "signal_time": "2026-10-13 00:00 UTC",
-      "signal_ms": 1791849600000,
-      "timeframe": "4 ساعت",
-      "tf_key": "14400",
-      "patterns": [
-        "Bullish Engulfing"
-      ],
-      "direction": "LONG",
-      "entry": 83299.9,
-      "tp": 84726.09,
-      "sl": 82349.11
-    },
-    {
-      "signal_time": "2026-10-13 12:00 UTC",
-      "signal_ms": 1791892800000,
-      "timeframe": "4 ساعت",
-      "tf_key": "14400",
-      "patterns": [
-        "Tweezer Bottom"
-      ],
-      "direction": "LONG",
-      "entry": 83393.0,
-      "tp": 85032.74,
-      "sl": 82299.84
-    },
-    {
-      "signal_time": "2026-10-13 16:00 UTC",
-      "signal_ms": 1791907200000,
-      "timeframe": "4 ساعت",
-      "tf_key": "14400",
-      "patterns": [
-        "Bearish Engulfing"
-      ],
-      "direction": "SHORT",
-      "entry": 83252.9,
-      "tp": 81562.24,
-      "sl": 84380.01
-    },
-    {
-      "signal_time": "2026-10-14 00:00 UTC",
-      "signal_ms": 1791936000000,
-      "timeframe": "4 ساعت",
-      "tf_key": "14400",
-      "patterns": [
-        "Bullish Engulfing",
-        "Tweezer Bottom"
-      ],
-      "direction": "LONG",
-      "entry": 83663.5,
-      "tp": 85306.33,
-      "sl": 82568.28
-    },
-    {
       "signal_time": "2026-10-14 13:30 UTC",
       "signal_ms": 1791984600000,
       "timeframe": "30 دقیقه",
@@ -117,6 +64,45 @@
       "entry": 81929.6,
       "tp": 82744.52,
       "sl": 81386.32
+    },
+    {
+      "signal_time": "2026-10-14 12:00 UTC",
+      "signal_ms": 1791979200000,
+      "timeframe": "4 ساعت",
+      "tf_key": "14400",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 81600.0,
+      "tp": 79688.99,
+      "sl": 82874.01
+    },
+    {
+      "signal_time": "2026-10-14 16:00 UTC",
+      "signal_ms": 1791993600000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Tweezer Bottom"
+      ],
+      "direction": "LONG",
+      "entry": 81704.4,
+      "tp": 82492.47,
+      "sl": 81179.02
+    },
+    {
+      "signal_time": "2026-10-14 15:00 UTC",
+      "signal_ms": 1791990000000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 81600.0,
+      "tp": 80676.09,
+      "sl": 82215.94
     }
   ],
   "last_reported": {
