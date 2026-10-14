@@ -14,19 +14,6 @@
       "sl": 82349.11
     },
     {
-      "signal_time": "2026-10-13 11:00 UTC",
-      "signal_ms": 1791889200000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bullish Meeting Lines"
-      ],
-      "direction": "LONG",
-      "entry": 83325.1,
-      "tp": 84373.52,
-      "sl": 82626.15
-    },
-    {
       "signal_time": "2026-10-13 12:00 UTC",
       "signal_ms": 1791892800000,
       "timeframe": "1 ساعت",
