@@ -27,19 +27,6 @@
       "sl": 82524.63
     },
     {
-      "signal_time": "2026-10-14 15:00 UTC",
-      "signal_ms": 1791990000000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bullish Meeting Lines"
-      ],
-      "direction": "LONG",
-      "entry": 81929.6,
-      "tp": 82744.52,
-      "sl": 81386.32
-    },
-    {
       "signal_time": "2026-10-14 12:00 UTC",
       "signal_ms": 1791979200000,
       "timeframe": "4 ساعت",
@@ -222,6 +209,19 @@
       "entry": 81739.1,
       "tp": 81163.32,
       "sl": 82122.95
+    },
+    {
+      "signal_time": "2026-10-14 21:00 UTC",
+      "signal_ms": 1792011600000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Tweezer Bottom"
+      ],
+      "direction": "LONG",
+      "entry": 81822.9,
+      "tp": 82346.58,
+      "sl": 81473.78
     }
   ],
   "last_reported": {
