@@ -40,19 +40,6 @@
       "sl": 84380.01
     },
     {
-      "signal_time": "2026-10-13 20:00 UTC",
-      "signal_ms": 1791921600000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83372.9,
-      "tp": 84132.36,
-      "sl": 82866.59
-    },
-    {
       "signal_time": "2026-10-13 21:00 UTC",
       "signal_ms": 1791925200000,
       "timeframe": "1 ساعت",
@@ -66,20 +53,6 @@
       "sl": 82996.56
     },
     {
-      "signal_time": "2026-10-13 22:00 UTC",
-      "signal_ms": 1791928800000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bearish Meeting Lines",
-        "Tweezer Top"
-      ],
-      "direction": "SHORT",
-      "entry": 83483.7,
-      "tp": 82803.22,
-      "sl": 83937.35
-    },
-    {
       "signal_time": "2026-10-14 02:00 UTC",
       "signal_ms": 1791943200000,
       "timeframe": "1 ساعت",
@@ -91,19 +64,6 @@
       "entry": 83608.3,
       "tp": 84280.0,
       "sl": 83160.5
-    },
-    {
-      "signal_time": "2026-10-14 03:00 UTC",
-      "signal_ms": 1791946800000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Shooting Star"
-      ],
-      "direction": "SHORT",
-      "entry": 83663.5,
-      "tp": 83019.11,
-      "sl": 84093.09
     },
     {
       "signal_time": "2026-10-14 00:00 UTC",
@@ -120,44 +80,31 @@
       "sl": 82568.28
     },
     {
-      "signal_time": "2026-10-14 05:00 UTC",
-      "signal_ms": 1791954000000,
+      "signal_time": "2026-10-14 08:00 UTC",
+      "signal_ms": 1791964800000,
       "timeframe": "1 ساعت",
       "tf_key": "3600",
+      "patterns": [
+        "Bearish Engulfing",
+        "Shooting Star"
+      ],
+      "direction": "SHORT",
+      "entry": 83394.3,
+      "tp": 82774.89,
+      "sl": 83807.24
+    },
+    {
+      "signal_time": "2026-10-14 08:30 UTC",
+      "signal_ms": 1791966600000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
       "patterns": [
         "Bearish Engulfing"
       ],
       "direction": "SHORT",
-      "entry": 83434.6,
-      "tp": 82860.94,
-      "sl": 83817.04
-    },
-    {
-      "signal_time": "2026-10-14 07:00 UTC",
-      "signal_ms": 1791961200000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bullish Engulfing",
-        "Tweezer Bottom"
-      ],
-      "direction": "LONG",
-      "entry": 83540.4,
-      "tp": 84107.88,
-      "sl": 83162.08
-    },
-    {
-      "signal_time": "2026-10-14 08:00 UTC",
-      "signal_ms": 1791964800000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83812.0,
-      "tp": 84294.61,
-      "sl": 83490.26
+      "entry": 83394.3,
+      "tp": 82880.93,
+      "sl": 83736.55
     }
   ],
   "last_reported": {
