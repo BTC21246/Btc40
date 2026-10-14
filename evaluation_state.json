@@ -40,19 +40,6 @@
       "sl": 82874.01
     },
     {
-      "signal_time": "2026-10-14 16:00 UTC",
-      "signal_ms": 1791993600000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Tweezer Bottom"
-      ],
-      "direction": "LONG",
-      "entry": 81704.4,
-      "tp": 82492.47,
-      "sl": 81179.02
-    },
-    {
       "signal_time": "2026-10-14 15:00 UTC",
       "signal_ms": 1791990000000,
       "timeframe": "1 ساعت",
