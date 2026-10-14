@@ -93,19 +93,6 @@
       "sl": 83160.5
     },
     {
-      "signal_time": "2026-10-14 03:30 UTC",
-      "signal_ms": 1791948600000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Shooting Star"
-      ],
-      "direction": "SHORT",
-      "entry": 83663.5,
-      "tp": 83247.52,
-      "sl": 83940.82
-    },
-    {
       "signal_time": "2026-10-14 03:00 UTC",
       "signal_ms": 1791946800000,
       "timeframe": "1 ساعت",
@@ -133,19 +120,6 @@
       "sl": 82568.28
     },
     {
-      "signal_time": "2026-10-14 05:30 UTC",
-      "signal_ms": 1791955800000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Three Black Crows"
-      ],
-      "direction": "SHORT",
-      "entry": 83434.6,
-      "tp": 82970.89,
-      "sl": 83743.74
-    },
-    {
       "signal_time": "2026-10-14 05:00 UTC",
       "signal_ms": 1791954000000,
       "timeframe": "1 ساعت",
@@ -157,19 +131,6 @@
       "entry": 83434.6,
       "tp": 82860.94,
       "sl": 83817.04
-    },
-    {
-      "signal_time": "2026-10-14 06:30 UTC",
-      "signal_ms": 1791959400000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bearish Engulfing"
-      ],
-      "direction": "SHORT",
-      "entry": 83398.5,
-      "tp": 82953.1,
-      "sl": 83695.43
     },
     {
       "signal_time": "2026-10-14 07:00 UTC",
@@ -184,6 +145,19 @@
       "entry": 83540.4,
       "tp": 84107.88,
       "sl": 83162.08
+    },
+    {
+      "signal_time": "2026-10-14 08:00 UTC",
+      "signal_ms": 1791964800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three White Soldiers"
+      ],
+      "direction": "LONG",
+      "entry": 83812.0,
+      "tp": 84294.61,
+      "sl": 83490.26
     }
   ],
   "last_reported": {
