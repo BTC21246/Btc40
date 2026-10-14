@@ -104,6 +104,19 @@
       "entry": 81926.4,
       "tp": 81029.05,
       "sl": 82524.63
+    },
+    {
+      "signal_time": "2026-10-14 15:00 UTC",
+      "signal_ms": 1791990000000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Meeting Lines"
+      ],
+      "direction": "LONG",
+      "entry": 81929.6,
+      "tp": 82744.52,
+      "sl": 81386.32
     }
   ],
   "last_reported": {
