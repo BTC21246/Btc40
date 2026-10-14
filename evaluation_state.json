@@ -225,19 +225,20 @@
       "sl": 83937.35
     },
     {
-      "signal_time": "2026-10-13 23:00 UTC",
-      "signal_ms": 1791932400000,
+      "signal_time": "2026-10-14 00:00 UTC",
+      "signal_ms": 1791936000000,
       "timeframe": "30 دقیقه",
       "tf_key": "1800",
       "patterns": [
-        "Bearish Engulfing",
-        "Falling Three Methods",
-        "Tweezer Top"
+        "Bullish Engulfing",
+        "Bullish Marubozu",
+        "Morning Doji Star",
+        "Morning Star"
       ],
-      "direction": "SHORT",
-      "entry": 83133.9,
-      "tp": 82763.72,
-      "sl": 83380.69
+      "direction": "LONG",
+      "entry": 83417.5,
+      "tp": 83789.98,
+      "sl": 83169.18
     }
   ],
   "last_reported": {
