@@ -91,6 +91,19 @@
       "entry": 82017.0,
       "tp": 81207.84,
       "sl": 82556.44
+    },
+    {
+      "signal_time": "2026-10-14 14:00 UTC",
+      "signal_ms": 1791986400000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 81926.4,
+      "tp": 81029.05,
+      "sl": 82524.63
     }
   ],
   "last_reported": {
