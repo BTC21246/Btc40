@@ -182,6 +182,32 @@
       "entry": 81759.1,
       "tp": 82587.83,
       "sl": 81206.61
+    },
+    {
+      "signal_time": "2026-10-14 19:00 UTC",
+      "signal_ms": 1792004400000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Morning Star"
+      ],
+      "direction": "LONG",
+      "entry": 81798.6,
+      "tp": 82744.82,
+      "sl": 81167.79
+    },
+    {
+      "signal_time": "2026-10-14 16:00 UTC",
+      "signal_ms": 1791993600000,
+      "timeframe": "4 ساعت",
+      "tf_key": "14400",
+      "patterns": [
+        "Tweezer Bottom"
+      ],
+      "direction": "LONG",
+      "entry": 81798.6,
+      "tp": 83692.14,
+      "sl": 80536.24
     }
   ],
   "last_reported": {
