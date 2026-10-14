@@ -66,20 +66,6 @@
       "sl": 82590.1
     },
     {
-      "signal_time": "2026-10-13 19:30 UTC",
-      "signal_ms": 1791919800000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Hammer",
-        "Three White Soldiers"
-      ],
-      "direction": "LONG",
-      "entry": 83252.9,
-      "tp": 83781.17,
-      "sl": 82900.72
-    },
-    {
       "signal_time": "2026-10-13 19:00 UTC",
       "signal_ms": 1791918000000,
       "timeframe": "1 ساعت",
@@ -173,22 +159,6 @@
       "sl": 83937.35
     },
     {
-      "signal_time": "2026-10-14 00:00 UTC",
-      "signal_ms": 1791936000000,
-      "timeframe": "30 دقیقه",
-      "tf_key": "1800",
-      "patterns": [
-        "Bullish Engulfing",
-        "Bullish Marubozu",
-        "Morning Doji Star",
-        "Morning Star"
-      ],
-      "direction": "LONG",
-      "entry": 83417.5,
-      "tp": 83789.98,
-      "sl": 83169.18
-    },
-    {
       "signal_time": "2026-10-14 00:30 UTC",
       "signal_ms": 1791937800000,
       "timeframe": "30 دقیقه",
@@ -200,6 +170,19 @@
       "entry": 83373.5,
       "tp": 83002.71,
       "sl": 83620.69
+    },
+    {
+      "signal_time": "2026-10-14 01:30 UTC",
+      "signal_ms": 1791941400000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Meeting Lines"
+      ],
+      "direction": "LONG",
+      "entry": 83281.2,
+      "tp": 83647.02,
+      "sl": 83037.32
     }
   ],
   "last_reported": {
