@@ -40,20 +40,6 @@
       "sl": 82215.94
     },
     {
-      "signal_time": "2026-10-14 16:00 UTC",
-      "signal_ms": 1791993600000,
-      "timeframe": "1 ساعت",
-      "tf_key": "3600",
-      "patterns": [
-        "Bullish Engulfing",
-        "Tweezer Bottom"
-      ],
-      "direction": "LONG",
-      "entry": 81968.8,
-      "tp": 82883.97,
-      "sl": 81358.69
-    },
-    {
       "signal_time": "2026-10-14 17:00 UTC",
       "signal_ms": 1791997200000,
       "timeframe": "1 ساعت",
@@ -197,6 +183,20 @@
       "entry": 81640.1,
       "tp": 82526.95,
       "sl": 81048.87
+    },
+    {
+      "signal_time": "2026-10-15 00:00 UTC",
+      "signal_ms": 1792022400000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Bearish Engulfing",
+        "Bearish Meeting Lines"
+      ],
+      "direction": "SHORT",
+      "entry": 81624.7,
+      "tp": 80737.67,
+      "sl": 82216.05
     }
   ],
   "last_reported": {
