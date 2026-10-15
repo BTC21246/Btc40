@@ -52,6 +52,19 @@
       "entry": 80550.7,
       "tp": 79498.03,
       "sl": 81252.48
+    },
+    {
+      "signal_time": "2026-10-15 06:00 UTC",
+      "signal_ms": 1792044000000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Tweezer Bottom"
+      ],
+      "direction": "LONG",
+      "entry": 80938.6,
+      "tp": 81937.46,
+      "sl": 80272.69
     }
   ],
   "last_reported": {
