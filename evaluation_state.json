@@ -170,6 +170,19 @@
       "entry": 81624.7,
       "tp": 80737.67,
       "sl": 82216.05
+    },
+    {
+      "signal_time": "2026-10-15 01:30 UTC",
+      "signal_ms": 1792027800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Inverted Hammer"
+      ],
+      "direction": "LONG",
+      "entry": 81601.5,
+      "tp": 82085.76,
+      "sl": 81278.66
     }
   ],
   "last_reported": {
