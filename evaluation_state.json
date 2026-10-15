@@ -38,6 +38,19 @@
       "entry": 81498.2,
       "tp": 80552.24,
       "sl": 82128.84
+    },
+    {
+      "signal_time": "2026-10-15 03:00 UTC",
+      "signal_ms": 1792033200000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bearish Marubozu"
+      ],
+      "direction": "SHORT",
+      "entry": 81002.9,
+      "tp": 80191.49,
+      "sl": 81543.84
     }
   ],
   "last_reported": {
