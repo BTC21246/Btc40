@@ -103,6 +103,19 @@
       "entry": 81340.9,
       "tp": 80226.83,
       "sl": 82083.61
+    },
+    {
+      "signal_time": "2026-10-15 10:00 UTC",
+      "signal_ms": 1792058400000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Three Black Crows"
+      ],
+      "direction": "SHORT",
+      "entry": 80974.1,
+      "tp": 80281.2,
+      "sl": 81436.03
     }
   ],
   "last_reported": {
