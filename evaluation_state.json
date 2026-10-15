@@ -64,6 +64,20 @@
       "entry": 80900.1,
       "tp": 79949.88,
       "sl": 81533.58
+    },
+    {
+      "signal_time": "2026-10-15 04:00 UTC",
+      "signal_ms": 1792036800000,
+      "timeframe": "30 دقیقه",
+      "tf_key": "1800",
+      "patterns": [
+        "Bullish Engulfing",
+        "Morning Star"
+      ],
+      "direction": "LONG",
+      "entry": 81340.1,
+      "tp": 82194.05,
+      "sl": 80770.8
     }
   ],
   "last_reported": {
