@@ -103,6 +103,19 @@
       "entry": 81237.1,
       "tp": 80202.99,
       "sl": 81926.51
+    },
+    {
+      "signal_time": "2026-10-15 08:00 UTC",
+      "signal_ms": 1792051200000,
+      "timeframe": "1 ساعت",
+      "tf_key": "3600",
+      "patterns": [
+        "Tweezer Top"
+      ],
+      "direction": "SHORT",
+      "entry": 81340.9,
+      "tp": 80226.83,
+      "sl": 82083.61
     }
   ],
   "last_reported": {
