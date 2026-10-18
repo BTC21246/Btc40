@@ -1,0 +1,164 @@
+BTC40 PATTERN AUDIT V2
+TEST ONLY - NO REAL ORDERS
+Assumed round-trip cost: 0.080%
+Start index: 50; max hold: 12 candles
+Each pattern is evaluated independently; ambiguous candles excluded from PnL.
+Results are preliminary and not statistically conclusive.
+
+
+===== 30 دقیقه | 999 candles =====
+Bullish Counterattack Lines | LONG | detected=12 | trades=12 TP=7 SL=3 TIMEOUT=2 AMBIG=0 | win=70.0% | gross=3.370% net=2.410% | مقایسه اولیه (حداقل نمونه)
+Bullish Meeting Lines | LONG | detected=16 | trades=16 TP=7 SL=5 TIMEOUT=4 AMBIG=0 | win=58.3% | gross=2.344% net=1.064% | مقایسه اولیه (حداقل نمونه)
+Inverted Hammer | LONG | detected=15 | trades=14 TP=4 SL=5 TIMEOUT=5 AMBIG=0 | win=44.4% | gross=2.054% net=0.934% | مقایسه اولیه (حداقل نمونه)
+Bullish Belt Hold | LONG | detected=35 | trades=29 TP=13 SL=8 TIMEOUT=8 AMBIG=0 | win=61.9% | gross=2.922% net=0.602% | مقایسه اولیه (حداقل نمونه)
+Bullish Separating Lines | LONG | detected=10 | trades=10 TP=4 SL=5 TIMEOUT=1 AMBIG=0 | win=44.4% | gross=1.339% net=0.539% | مقایسه اولیه (حداقل نمونه)
+Morning Doji Star | LONG | detected=9 | trades=9 TP=3 SL=4 TIMEOUT=2 AMBIG=0 | win=42.9% | gross=1.073% net=0.353% | مقایسه اولیه (حداقل نمونه)
+Tweezer Top | SHORT | detected=58 | trades=45 TP=18 SL=22 TIMEOUT=5 AMBIG=0 | win=45.0% | gross=3.648% net=0.048% | مقایسه اولیه (حداقل نمونه)
+Bearish Meeting Lines | SHORT | detected=11 | trades=11 TP=4 SL=5 TIMEOUT=2 AMBIG=0 | win=44.4% | gross=0.611% net=-0.269% | مقایسه اولیه (حداقل نمونه)
+Bearish Marubozu | SHORT | detected=13 | trades=12 TP=5 SL=5 TIMEOUT=2 AMBIG=0 | win=50.0% | gross=0.688% net=-0.272% | مقایسه اولیه (حداقل نمونه)
+Matching High | SHORT | detected=7 | trades=7 TP=2 SL=4 TIMEOUT=1 AMBIG=0 | win=33.3% | gross=0.194% net=-0.366% | نمونه کم
+Bearish Separating Lines | SHORT | detected=8 | trades=8 TP=3 SL=3 TIMEOUT=2 AMBIG=0 | win=50.0% | gross=0.152% net=-0.488% | مقایسه اولیه (حداقل نمونه)
+Matching Low | LONG | detected=7 | trades=7 TP=2 SL=3 TIMEOUT=2 AMBIG=0 | win=40.0% | gross=0.054% net=-0.506% | نمونه کم
+Falling Three Methods | SHORT | detected=5 | trades=4 TP=1 SL=2 TIMEOUT=1 AMBIG=0 | win=33.3% | gross=-0.420% net=-0.740% | نمونه کم
+Hammer | LONG | detected=30 | trades=27 TP=9 SL=14 TIMEOUT=4 AMBIG=0 | win=39.1% | gross=1.343% net=-0.817% | مقایسه اولیه (حداقل نمونه)
+Evening Star | SHORT | detected=15 | trades=14 TP=5 SL=6 TIMEOUT=3 AMBIG=0 | win=45.5% | gross=0.253% net=-0.867% | مقایسه اولیه (حداقل نمونه)
+Bearish Counterattack Lines | SHORT | detected=5 | trades=5 TP=1 SL=3 TIMEOUT=1 AMBIG=0 | win=25.0% | gross=-0.615% net=-1.014% | نمونه کم
+Dragonfly Doji | LONG | detected=5 | trades=5 TP=1 SL=4 TIMEOUT=0 AMBIG=0 | win=20.0% | gross=-0.643% net=-1.043% | نمونه کم
+Tweezer Bottom | LONG | detected=58 | trades=40 TP=13 SL=15 TIMEOUT=12 AMBIG=0 | win=46.4% | gross=2.053% net=-1.147% | مقایسه اولیه (حداقل نمونه)
+Bearish Belt Hold | SHORT | detected=38 | trades=30 TP=10 SL=14 TIMEOUT=6 AMBIG=0 | win=41.7% | gross=1.225% net=-1.175% | مقایسه اولیه (حداقل نمونه)
+Morning Star | LONG | detected=25 | trades=23 TP=8 SL=10 TIMEOUT=5 AMBIG=0 | win=44.4% | gross=0.603% net=-1.237% | مقایسه اولیه (حداقل نمونه)
+Evening Doji Star | SHORT | detected=4 | trades=4 TP=0 SL=3 TIMEOUT=1 AMBIG=0 | win=0.0% | gross=-1.076% net=-1.396% | نمونه کم
+Rising Three Methods | LONG | detected=5 | trades=5 TP=0 SL=4 TIMEOUT=1 AMBIG=0 | win=0.0% | gross=-1.521% net=-1.921% | نمونه کم
+Gravestone Doji | SHORT | detected=7 | trades=6 TP=0 SL=4 TIMEOUT=2 AMBIG=0 | win=0.0% | gross=-1.553% net=-2.033% | نمونه کم
+Hanging Man | SHORT | detected=13 | trades=10 TP=2 SL=5 TIMEOUT=3 AMBIG=0 | win=28.6% | gross=-1.318% net=-2.118% | مقایسه اولیه (حداقل نمونه)
+Bullish Marubozu | LONG | detected=16 | trades=16 TP=4 SL=7 TIMEOUT=5 AMBIG=0 | win=36.4% | gross=-0.890% net=-2.170% | مقایسه اولیه (حداقل نمونه)
+Three White Soldiers | LONG | detected=127 | trades=62 TP=21 SL=25 TIMEOUT=16 AMBIG=0 | win=45.7% | gross=2.294% net=-2.666% | مقایسه اولیه (حداقل نمونه)
+Shooting Star | SHORT | detected=21 | trades=18 TP=2 SL=14 TIMEOUT=2 AMBIG=0 | win=12.5% | gross=-2.326% net=-3.766% | مقایسه اولیه (حداقل نمونه)
+Three Black Crows | SHORT | detected=107 | trades=54 TP=17 SL=30 TIMEOUT=7 AMBIG=0 | win=36.2% | gross=-0.978% net=-5.298% | مقایسه اولیه (حداقل نمونه)
+Bearish Engulfing | SHORT | detected=113 | trades=72 TP=23 SL=37 TIMEOUT=12 AMBIG=0 | win=38.3% | gross=-1.446% net=-7.206% | مقایسه اولیه (حداقل نمونه)
+Bullish Engulfing | LONG | detected=114 | trades=74 TP=22 SL=40 TIMEOUT=12 AMBIG=0 | win=35.5% | gross=-3.822% net=-9.742% | مقایسه اولیه (حداقل نمونه)
+
+===== 1 ساعت | 999 candles =====
+Bullish Counterattack Lines | LONG | detected=6 | trades=6 TP=4 SL=0 TIMEOUT=2 AMBIG=0 | win=100.0% | gross=3.554% net=3.074% | نمونه کم
+Bullish Meeting Lines | LONG | detected=8 | trades=8 TP=4 SL=2 TIMEOUT=2 AMBIG=0 | win=66.7% | gross=2.831% net=2.191% | مقایسه اولیه (حداقل نمونه)
+Tweezer Top | SHORT | detected=59 | trades=45 TP=18 SL=20 TIMEOUT=6 AMBIG=1 | win=47.4% | gross=5.249% net=1.729% | مقایسه اولیه (حداقل نمونه)
+Inverted Hammer | LONG | detected=11 | trades=11 TP=5 SL=4 TIMEOUT=2 AMBIG=0 | win=55.6% | gross=2.578% net=1.698% | مقایسه اولیه (حداقل نمونه)
+Hammer | LONG | detected=27 | trades=21 TP=6 SL=8 TIMEOUT=6 AMBIG=1 | win=42.9% | gross=2.843% net=1.243% | مقایسه اولیه (حداقل نمونه)
+Bearish Meeting Lines | SHORT | detected=14 | trades=13 TP=5 SL=5 TIMEOUT=2 AMBIG=1 | win=50.0% | gross=1.929% net=0.969% | مقایسه اولیه (حداقل نمونه)
+Three White Soldiers | LONG | detected=120 | trades=56 TP=20 SL=25 TIMEOUT=11 AMBIG=0 | win=44.4% | gross=5.228% net=0.748% | مقایسه اولیه (حداقل نمونه)
+Falling Three Methods | SHORT | detected=3 | trades=3 TP=2 SL=1 TIMEOUT=0 AMBIG=0 | win=66.7% | gross=0.973% net=0.733% | نمونه کم
+Bearish Marubozu | SHORT | detected=15 | trades=13 TP=5 SL=6 TIMEOUT=2 AMBIG=0 | win=45.5% | gross=1.548% net=0.508% | مقایسه اولیه (حداقل نمونه)
+Bullish Separating Lines | LONG | detected=4 | trades=4 TP=2 SL=2 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=0.563% net=0.243% | نمونه کم
+Bearish Counterattack Lines | SHORT | detected=8 | trades=8 TP=3 SL=4 TIMEOUT=1 AMBIG=0 | win=42.9% | gross=0.684% net=0.044% | مقایسه اولیه (حداقل نمونه)
+Three Black Crows | SHORT | detected=99 | trades=46 TP=16 SL=22 TIMEOUT=8 AMBIG=0 | win=42.1% | gross=3.589% net=-0.091% | مقایسه اولیه (حداقل نمونه)
+Evening Doji Star | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-0.262% net=-0.342% | نمونه کم
+Bearish Separating Lines | SHORT | detected=2 | trades=2 TP=1 SL=1 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=-0.328% net=-0.488% | نمونه کم
+Morning Doji Star | LONG | detected=2 | trades=2 TP=0 SL=1 TIMEOUT=1 AMBIG=0 | win=0.0% | gross=-1.061% net=-1.222% | نمونه کم
+Bullish Marubozu | LONG | detected=12 | trades=10 TP=2 SL=4 TIMEOUT=3 AMBIG=1 | win=33.3% | gross=-0.660% net=-1.380% | مقایسه اولیه (حداقل نمونه)
+Dragonfly Doji | LONG | detected=7 | trades=7 TP=1 SL=3 TIMEOUT=2 AMBIG=1 | win=25.0% | gross=-0.954% net=-1.434% | نمونه کم
+Evening Star | SHORT | detected=15 | trades=13 TP=4 SL=6 TIMEOUT=3 AMBIG=0 | win=40.0% | gross=-0.526% net=-1.566% | مقایسه اولیه (حداقل نمونه)
+Rising Three Methods | LONG | detected=3 | trades=3 TP=0 SL=3 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-1.343% net=-1.583% | نمونه کم
+Shooting Star | SHORT | detected=18 | trades=16 TP=4 SL=9 TIMEOUT=3 AMBIG=0 | win=30.8% | gross=-1.118% net=-2.397% | مقایسه اولیه (حداقل نمونه)
+Matching Low | LONG | detected=8 | trades=7 TP=1 SL=5 TIMEOUT=1 AMBIG=0 | win=16.7% | gross=-1.860% net=-2.420% | نمونه کم
+Bearish Belt Hold | SHORT | detected=34 | trades=30 TP=9 SL=15 TIMEOUT=5 AMBIG=1 | win=37.5% | gross=-0.332% net=-2.652% | مقایسه اولیه (حداقل نمونه)
+Hanging Man | SHORT | detected=15 | trades=12 TP=3 SL=7 TIMEOUT=2 AMBIG=0 | win=30.0% | gross=-1.706% net=-2.666% | مقایسه اولیه (حداقل نمونه)
+Bullish Belt Hold | LONG | detected=33 | trades=26 TP=9 SL=12 TIMEOUT=4 AMBIG=1 | win=42.9% | gross=-1.191% net=-3.191% | مقایسه اولیه (حداقل نمونه)
+Matching High | SHORT | detected=6 | trades=6 TP=0 SL=6 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-2.999% net=-3.479% | نمونه کم
+Morning Star | LONG | detected=15 | trades=14 TP=2 SL=8 TIMEOUT=4 AMBIG=0 | win=20.0% | gross=-3.138% net=-4.258% | مقایسه اولیه (حداقل نمونه)
+Bullish Engulfing | LONG | detected=136 | trades=82 TP=25 SL=40 TIMEOUT=16 AMBIG=1 | win=38.5% | gross=0.314% net=-6.167% | مقایسه اولیه (حداقل نمونه)
+Bearish Engulfing | SHORT | detected=111 | trades=67 TP=18 SL=34 TIMEOUT=15 AMBIG=0 | win=34.6% | gross=-3.873% net=-9.233% | مقایسه اولیه (حداقل نمونه)
+Tweezer Bottom | LONG | detected=62 | trades=49 TP=15 SL=28 TIMEOUT=6 AMBIG=0 | win=34.9% | gross=-5.728% net=-9.648% | مقایسه اولیه (حداقل نمونه)
+
+===== 4 ساعت | 249 candles =====
+Three White Soldiers | LONG | detected=24 | trades=10 TP=5 SL=3 TIMEOUT=2 AMBIG=0 | win=62.5% | gross=5.963% net=5.163% | مقایسه اولیه (حداقل نمونه)
+Bullish Separating Lines | LONG | detected=2 | trades=2 TP=1 SL=0 TIMEOUT=1 AMBIG=0 | win=100.0% | gross=2.372% net=2.212% | نمونه کم
+Morning Doji Star | LONG | detected=1 | trades=1 TP=1 SL=0 TIMEOUT=0 AMBIG=0 | win=100.0% | gross=1.898% net=1.818% | نمونه کم
+Bearish Counterattack Lines | SHORT | detected=2 | trades=2 TP=0 SL=0 TIMEOUT=2 AMBIG=0 | win=0.0% | gross=1.395% net=1.235% | نمونه کم
+Bearish Meeting Lines | SHORT | detected=2 | trades=2 TP=0 SL=0 TIMEOUT=2 AMBIG=0 | win=0.0% | gross=1.395% net=1.235% | نمونه کم
+Morning Star | LONG | detected=2 | trades=2 TP=1 SL=1 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=0.960% net=0.800% | نمونه کم
+Bullish Belt Hold | LONG | detected=3 | trades=2 TP=1 SL=1 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=0.811% net=0.651% | نمونه کم
+Bearish Marubozu | SHORT | detected=1 | trades=1 TP=0 SL=0 TIMEOUT=1 AMBIG=0 | win=0.0% | gross=0.227% net=0.146% | نمونه کم
+Tweezer Bottom | LONG | detected=16 | trades=12 TP=4 SL=6 TIMEOUT=2 AMBIG=0 | win=40.0% | gross=0.843% net=-0.117% | مقایسه اولیه (حداقل نمونه)
+Shooting Star | SHORT | detected=1 | trades=1 TP=0 SL=0 TIMEOUT=1 AMBIG=0 | win=0.0% | gross=-0.372% net=-0.452% | نمونه کم
+Bearish Belt Hold | SHORT | detected=4 | trades=3 TP=1 SL=1 TIMEOUT=1 AMBIG=0 | win=50.0% | gross=-0.328% net=-0.568% | نمونه کم
+Hanging Man | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-0.572% net=-0.652% | نمونه کم
+Rising Three Methods | LONG | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-0.607% net=-0.687% | نمونه کم
+Bullish Meeting Lines | LONG | detected=3 | trades=3 TP=1 SL=2 TIMEOUT=0 AMBIG=0 | win=33.3% | gross=-1.005% net=-1.245% | نمونه کم
+Dragonfly Doji | LONG | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-1.177% net=-1.257% | نمونه کم
+Evening Doji Star | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-1.466% net=-1.546% | نمونه کم
+Hammer | LONG | detected=4 | trades=4 TP=1 SL=3 TIMEOUT=0 AMBIG=0 | win=25.0% | gross=-1.249% net=-1.569% | نمونه کم
+Matching High | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-1.508% net=-1.588% | نمونه کم
+Three Black Crows | SHORT | detected=15 | trades=7 TP=2 SL=4 TIMEOUT=1 AMBIG=0 | win=33.3% | gross=-1.612% net=-2.172% | نمونه کم
+Matching Low | LONG | detected=2 | trades=2 TP=0 SL=2 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-2.422% net=-2.582% | نمونه کم
+Evening Star | SHORT | detected=5 | trades=4 TP=1 SL=3 TIMEOUT=0 AMBIG=0 | win=25.0% | gross=-2.648% net=-2.968% | نمونه کم
+Bullish Counterattack Lines | LONG | detected=2 | trades=2 TP=0 SL=2 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-3.057% net=-3.217% | نمونه کم
+Tweezer Top | SHORT | detected=15 | trades=12 TP=3 SL=6 TIMEOUT=3 AMBIG=0 | win=33.3% | gross=-2.357% net=-3.318% | مقایسه اولیه (حداقل نمونه)
+Bullish Engulfing | LONG | detected=22 | trades=15 TP=5 SL=9 TIMEOUT=1 AMBIG=0 | win=35.7% | gross=-2.342% net=-3.542% | مقایسه اولیه (حداقل نمونه)
+Bearish Engulfing | SHORT | detected=21 | trades=16 TP=4 SL=9 TIMEOUT=3 AMBIG=0 | win=30.8% | gross=-4.038% net=-5.318% | مقایسه اولیه (حداقل نمونه)
+
+===== 1 روز | 999 candles =====
+Bearish Marubozu | SHORT | detected=10 | trades=9 TP=5 SL=4 TIMEOUT=0 AMBIG=0 | win=55.6% | gross=10.470% net=9.750% | مقایسه اولیه (حداقل نمونه)
+Hanging Man | SHORT | detected=11 | trades=11 TP=5 SL=5 TIMEOUT=1 AMBIG=0 | win=50.0% | gross=8.715% net=7.835% | مقایسه اولیه (حداقل نمونه)
+Bearish Counterattack Lines | SHORT | detected=6 | trades=6 TP=3 SL=2 TIMEOUT=1 AMBIG=0 | win=60.0% | gross=6.101% net=5.621% | نمونه کم
+Matching Low | LONG | detected=7 | trades=4 TP=2 SL=1 TIMEOUT=1 AMBIG=0 | win=66.7% | gross=5.812% net=5.492% | نمونه کم
+Bearish Separating Lines | SHORT | detected=8 | trades=8 TP=4 SL=4 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=5.795% net=5.155% | مقایسه اولیه (حداقل نمونه)
+Matching High | SHORT | detected=5 | trades=5 TP=2 SL=2 TIMEOUT=1 AMBIG=0 | win=50.0% | gross=5.456% net=5.056% | نمونه کم
+Bullish Marubozu | LONG | detected=14 | trades=12 TP=5 SL=6 TIMEOUT=1 AMBIG=0 | win=45.5% | gross=4.746% net=3.786% | مقایسه اولیه (حداقل نمونه)
+Bullish Counterattack Lines | LONG | detected=5 | trades=5 TP=2 SL=2 TIMEOUT=1 AMBIG=0 | win=50.0% | gross=2.158% net=1.758% | نمونه کم
+Rising Three Methods | LONG | detected=5 | trades=5 TP=2 SL=2 TIMEOUT=0 AMBIG=1 | win=50.0% | gross=1.163% net=0.843% | نمونه کم
+Bullish Meeting Lines | LONG | detected=10 | trades=10 TP=3 SL=4 TIMEOUT=2 AMBIG=1 | win=42.9% | gross=1.127% net=0.407% | مقایسه اولیه (حداقل نمونه)
+Bearish Meeting Lines | SHORT | detected=11 | trades=11 TP=4 SL=6 TIMEOUT=1 AMBIG=0 | win=40.0% | gross=0.667% net=-0.213% | مقایسه اولیه (حداقل نمونه)
+Evening Doji Star | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-2.839% net=-2.919% | نمونه کم
+Gravestone Doji | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-5.777% net=-5.857% | نمونه کم
+Shooting Star | SHORT | detected=8 | trades=8 TP=2 SL=4 TIMEOUT=2 AMBIG=0 | win=33.3% | gross=-5.897% net=-6.537% | مقایسه اولیه (حداقل نمونه)
+Bullish Belt Hold | LONG | detected=23 | trades=19 TP=4 SL=10 TIMEOUT=4 AMBIG=1 | win=28.6% | gross=-6.665% net=-8.105% | مقایسه اولیه (حداقل نمونه)
+Hammer | LONG | detected=18 | trades=18 TP=6 SL=11 TIMEOUT=1 AMBIG=0 | win=35.3% | gross=-8.312% net=-9.752% | مقایسه اولیه (حداقل نمونه)
+Bullish Separating Lines | LONG | detected=12 | trades=11 TP=3 SL=6 TIMEOUT=2 AMBIG=0 | win=33.3% | gross=-9.476% net=-10.356% | مقایسه اولیه (حداقل نمونه)
+Falling Three Methods | SHORT | detected=5 | trades=5 TP=1 SL=4 TIMEOUT=0 AMBIG=0 | win=20.0% | gross=-9.996% net=-10.396% | نمونه کم
+Morning Doji Star | LONG | detected=3 | trades=3 TP=0 SL=3 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-10.779% net=-11.019% | نمونه کم
+Dragonfly Doji | LONG | detected=6 | trades=6 TP=1 SL=5 TIMEOUT=0 AMBIG=0 | win=16.7% | gross=-11.283% net=-11.763% | نمونه کم
+Inverted Hammer | LONG | detected=3 | trades=3 TP=0 SL=3 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-12.282% net=-12.522% | نمونه کم
+Three Black Crows | SHORT | detected=113 | trades=56 TP=17 SL=28 TIMEOUT=11 AMBIG=0 | win=37.8% | gross=-8.109% net=-12.589% | مقایسه اولیه (حداقل نمونه)
+Bearish Belt Hold | SHORT | detected=15 | trades=15 TP=5 SL=9 TIMEOUT=1 AMBIG=0 | win=35.7% | gross=-12.307% net=-13.507% | مقایسه اولیه (حداقل نمونه)
+Evening Star | SHORT | detected=23 | trades=22 TP=7 SL=13 TIMEOUT=2 AMBIG=0 | win=35.0% | gross=-13.746% net=-15.506% | مقایسه اولیه (حداقل نمونه)
+Bearish Engulfing | SHORT | detected=117 | trades=75 TP=25 SL=39 TIMEOUT=11 AMBIG=0 | win=39.1% | gross=-12.068% net=-18.068% | مقایسه اولیه (حداقل نمونه)
+Tweezer Bottom | LONG | detected=64 | trades=50 TP=17 SL=27 TIMEOUT=6 AMBIG=0 | win=38.6% | gross=-14.526% net=-18.526% | مقایسه اولیه (حداقل نمونه)
+Three White Soldiers | LONG | detected=108 | trades=53 TP=15 SL=29 TIMEOUT=9 AMBIG=0 | win=34.1% | gross=-17.309% net=-21.549% | مقایسه اولیه (حداقل نمونه)
+Morning Star | LONG | detected=14 | trades=14 TP=4 SL=9 TIMEOUT=0 AMBIG=1 | win=30.8% | gross=-21.945% net=-22.986% | مقایسه اولیه (حداقل نمونه)
+Bullish Engulfing | LONG | detected=120 | trades=73 TP=20 SL=39 TIMEOUT=13 AMBIG=1 | win=33.9% | gross=-38.498% net=-44.258% | مقایسه اولیه (حداقل نمونه)
+Tweezer Top | SHORT | detected=75 | trades=60 TP=16 SL=35 TIMEOUT=9 AMBIG=0 | win=31.4% | gross=-63.289% net=-68.089% | مقایسه اولیه (حداقل نمونه)
+
+===== 1 هفته | 371 candles =====
+Three White Soldiers | LONG | detected=41 | trades=20 TP=9 SL=9 TIMEOUT=1 AMBIG=1 | win=50.0% | gross=87.389% net=85.869% | مقایسه اولیه (حداقل نمونه)
+Three Black Crows | SHORT | detected=28 | trades=14 TP=7 SL=5 TIMEOUT=2 AMBIG=0 | win=58.3% | gross=86.069% net=84.949% | مقایسه اولیه (حداقل نمونه)
+Hammer | LONG | detected=9 | trades=7 TP=4 SL=3 TIMEOUT=0 AMBIG=0 | win=57.1% | gross=66.021% net=65.461% | نمونه کم
+Bullish Meeting Lines | LONG | detected=6 | trades=5 TP=3 SL=2 TIMEOUT=0 AMBIG=0 | win=60.0% | gross=35.712% net=35.312% | نمونه کم
+Bullish Counterattack Lines | LONG | detected=4 | trades=3 TP=2 SL=1 TIMEOUT=0 AMBIG=0 | win=66.7% | gross=31.073% net=30.833% | نمونه کم
+Matching Low | LONG | detected=1 | trades=1 TP=1 SL=0 TIMEOUT=0 AMBIG=0 | win=100.0% | gross=26.785% net=26.705% | نمونه کم
+Bullish Marubozu | LONG | detected=6 | trades=6 TP=3 SL=2 TIMEOUT=1 AMBIG=0 | win=60.0% | gross=18.397% net=17.917% | نمونه کم
+Tweezer Top | SHORT | detected=21 | trades=17 TP=5 SL=8 TIMEOUT=4 AMBIG=0 | win=38.5% | gross=12.031% net=10.671% | مقایسه اولیه (حداقل نمونه)
+Rising Three Methods | LONG | detected=2 | trades=2 TP=1 SL=0 TIMEOUT=1 AMBIG=0 | win=100.0% | gross=7.736% net=7.576% | نمونه کم
+Bullish Separating Lines | LONG | detected=4 | trades=4 TP=2 SL=2 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=5.084% net=4.764% | نمونه کم
+Shooting Star | SHORT | detected=3 | trades=2 TP=1 SL=1 TIMEOUT=0 AMBIG=0 | win=50.0% | gross=0.751% net=0.591% | نمونه کم
+Hanging Man | SHORT | detected=8 | trades=7 TP=3 SL=3 TIMEOUT=1 AMBIG=0 | win=50.0% | gross=-0.362% net=-0.922% | نمونه کم
+Bearish Engulfing | SHORT | detected=40 | trades=26 TP=9 SL=15 TIMEOUT=2 AMBIG=0 | win=37.5% | gross=-0.261% net=-2.341% | مقایسه اولیه (حداقل نمونه)
+Matching High | SHORT | detected=1 | trades=1 TP=0 SL=1 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-8.315% net=-8.395% | نمونه کم
+Bearish Counterattack Lines | SHORT | detected=4 | trades=4 TP=1 SL=3 TIMEOUT=0 AMBIG=0 | win=25.0% | gross=-9.277% net=-9.597% | نمونه کم
+Evening Star | SHORT | detected=8 | trades=7 TP=1 SL=4 TIMEOUT=2 AMBIG=0 | win=20.0% | gross=-9.183% net=-9.743% | نمونه کم
+Dragonfly Doji | LONG | detected=3 | trades=3 TP=1 SL=2 TIMEOUT=0 AMBIG=0 | win=33.3% | gross=-10.415% net=-10.655% | نمونه کم
+Bullish Engulfing | LONG | detected=44 | trades=29 TP=11 SL=16 TIMEOUT=2 AMBIG=0 | win=40.7% | gross=-8.485% net=-10.805% | مقایسه اولیه (حداقل نمونه)
+Bearish Marubozu | SHORT | detected=3 | trades=3 TP=1 SL=2 TIMEOUT=0 AMBIG=0 | win=33.3% | gross=-13.970% net=-14.210% | نمونه کم
+Bearish Meeting Lines | SHORT | detected=6 | trades=6 TP=1 SL=4 TIMEOUT=1 AMBIG=0 | win=20.0% | gross=-17.508% net=-17.988% | نمونه کم
+Evening Doji Star | SHORT | detected=4 | trades=4 TP=1 SL=3 TIMEOUT=0 AMBIG=0 | win=25.0% | gross=-18.182% net=-18.502% | نمونه کم
+Inverted Hammer | LONG | detected=5 | trades=5 TP=2 SL=3 TIMEOUT=0 AMBIG=0 | win=40.0% | gross=-21.309% net=-21.709% | نمونه کم
+Bearish Belt Hold | SHORT | detected=8 | trades=8 TP=3 SL=5 TIMEOUT=0 AMBIG=0 | win=37.5% | gross=-26.740% net=-27.380% | مقایسه اولیه (حداقل نمونه)
+Bearish Separating Lines | SHORT | detected=3 | trades=3 TP=0 SL=3 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-36.016% net=-36.256% | نمونه کم
+Gravestone Doji | SHORT | detected=2 | trades=2 TP=0 SL=2 TIMEOUT=0 AMBIG=0 | win=0.0% | gross=-37.339% net=-37.499% | نمونه کم
+Tweezer Bottom | LONG | detected=17 | trades=16 TP=6 SL=10 TIMEOUT=0 AMBIG=0 | win=37.5% | gross=-39.167% net=-40.447% | مقایسه اولیه (حداقل نمونه)
+Morning Star | LONG | detected=3 | trades=3 TP=0 SL=2 TIMEOUT=1 AMBIG=0 | win=0.0% | gross=-47.800% net=-48.040% | نمونه کم
+Bullish Belt Hold | LONG | detected=8 | trades=8 TP=1 SL=6 TIMEOUT=1 AMBIG=0 | win=14.3% | gross=-65.172% net=-65.812% | مقایسه اولیه (حداقل نمونه)
+
+CAUTION: Historical sample only; not proof of future performance.
+Net PnL uses an assumed cost of 0.08 percentage points per trade.
+Patterns with fewer than 8 trades are too small for meaningful comparison.
+Total individual trades: 2133
